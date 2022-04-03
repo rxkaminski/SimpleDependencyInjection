@@ -1,7 +1,6 @@
+#SimpleDependencyInjection
 
-
-
-
+Simple implementation of dependency injection collection
 
 
 ## Benchmark
